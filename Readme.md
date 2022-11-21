@@ -3,3 +3,7 @@
 ### Tecnologias
 - Typescript
 - Node.js
+
+### É possível conferir aplicação FullStack desenvolvida a partir dessa em:
+
+#### [ts-full-BankApp](https://github.com/ArNeto19/ts-full-bankApp)
